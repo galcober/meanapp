@@ -1,0 +1,2 @@
+# meanapp
+Mean app base
